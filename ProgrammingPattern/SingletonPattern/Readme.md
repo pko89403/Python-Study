@@ -18,3 +18,5 @@ class가 단 한 개의 instance 만 가지도록 제한하는 패턴
 - 전역 변수의 값이 실수로 변경된 것을 모르고 사용될 수 있다
 - 한 개의 객체만을 만들기 때문에 같은 객체에 대한 여러개의 참조자가 생긴다
 - 전역 변수에 종속적인 모든 클래스 간 상호관계가 복잡해 질 수 가 있다. 따라서 전역 변수의 수정이 의도치 않게 다른 클래스에도 영향을 줄 수 있다.
+
+![singleton-class-diagram](https://media.geeksforgeeks.org/wp-content/uploads/20200122161234/singleton-class-diagram.png)
