@@ -20,6 +20,7 @@ Factory - 다른 클래스의 객체를 생성하는 클래스를 말한다.
 - 객체를 생성하는 코드와 활용하는 코드를 분리하여 의존성을 줄인다.
 - 새로운 클래스 추가 등의 유지보수가 쉽다.
 
+![Factory_pattern-class-diagram](https://media.geeksforgeeks.org/wp-content/uploads/20200116150155/Factory-pattern-class.png)
 ## 2. Abstract Factory  
 - 클래스를 직접 호출하지 않고 관련 객체를 생성하는 인터페이스를 제공한다.
 - 팩토리 메소드는 인스턴스 생성을 서브 클래스에 맡기는 반면 추상 팩토리는 관련된 객체의 집합을 생성한다.
@@ -28,3 +29,5 @@ Factory - 다른 클래스의 객체를 생성하는 클래스를 말한다.
 - 추상 팩토리 패턴은 확장에 매우 용의한 패턴이다.
 - 추상 팩토리 패턴은 기존 팩토리 패턴의 if-else 로직에서 벗어날 수 있게 해준다.
 - 구체적인 클래스는 분리 되어있다
+
+![abstract method pattern](https://media.geeksforgeeks.org/wp-content/uploads/20200120120403/class_2_diagram.png)
