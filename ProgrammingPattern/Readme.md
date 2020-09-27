@@ -5,5 +5,17 @@
 - Structural Pattens (Flyweight)
 - Bebavioural Patterns (Observer)
 - Iterators 와 Generators
-- Command Dispatch Pattern
-- 
+- Decorator
+- Prototype
+- Builder
+- Adapter
+- Bridge
+- Facade
+- Proxy
+- State
+- Strategy
+- MicroServices
+  - Retry
+  - Circuit Breaker
+  - Cache-Aside 
+  - Throttling
